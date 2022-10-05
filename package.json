@@ -1,0 +1,20 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo/index.ts",
+  "scripts": {
+    "serve": "nodemon demo/index.ts -w demo/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jh-n/design-patterns.git"
+  },
+  "keywords": [],
+  "author": "jh-n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jh-n/design-patterns/issues"
+  },
+  "homepage": "https://github.com/jh-n/design-patterns#readme"
+}
